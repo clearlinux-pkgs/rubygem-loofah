@@ -1,0 +1,1 @@
+pushd %{buildroot}%{gem_dir}/gems/loofah-2.0.2 && rake --trace test TESTOPTS="-v" && popd
