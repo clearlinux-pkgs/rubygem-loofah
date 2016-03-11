@@ -1,4 +1,4 @@
 # File auto-generated with 'Watchfile generator'
-# 2016-02-25 23:03:08.340789
+# 2016-03-11 21:44:42.977693
 # {'~>2.0'}
-watchurl=https://rubygems.org/gems/loofah/versions/([0-2]\.[0-9]{1,2}(\.[0-9a-zA-Z]+)?)
+watchurl=https://rubygems.org/gems/loofah/versions/([0-2]\.[0-9]{1,2}(?:\.[0-9a-zA-Z]+)*)
